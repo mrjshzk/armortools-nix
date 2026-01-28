@@ -2,3 +2,6 @@
 .vscode
 *.DS_Store
 *.blend1
+.direnv
+**/assets/locale
+**/*.log
