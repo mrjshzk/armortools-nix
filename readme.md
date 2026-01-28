@@ -45,3 +45,5 @@ cd paint
 ../base/make #--run if you want to just run it
 ```
 #### Binaries should be in the "out" directory.
+
+### TO BE DONE - Building/running should be automated using _nix run/nix build_
